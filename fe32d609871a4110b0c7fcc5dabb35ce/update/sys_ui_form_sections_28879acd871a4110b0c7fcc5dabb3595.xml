@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="28879acd871a4110b0c7fcc5dabb3595" sys_domain="global" table="x_517375_it_case_it_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-16 05:44:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc781e01875a4110b0c7fcc5dabb354d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_517375_it_case_it_case" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">28879acd871a4110b0c7fcc5dabb3595</sys_ui_form>
+            <sys_ui_section caption="IT Case" display_value="IT Case" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">04781e01875a4110b0c7fcc5dabb3500</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-16 05:44:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-16 06:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46a966c1879a4110b0c7fcc5dabb3534</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_517375_it_case_it_case" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">28879acd871a4110b0c7fcc5dabb3595</sys_ui_form>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">e9a966c1879a4110b0c7fcc5dabb352d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-16 06:59:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-16 06:01:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c7c1245875a4110b0c7fcc5dabb35a3</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_517375_it_case_it_case" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">28879acd871a4110b0c7fcc5dabb3595</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">487c1245875a4110b0c7fcc5dabb35a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-16 06:59:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-16 06:01:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>087c1245875a4110b0c7fcc5dabb35a7</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_517375_it_case_it_case" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">28879acd871a4110b0c7fcc5dabb3595</sys_ui_form>
+            <sys_ui_section caption="Case Closure" display_value="Case Closure" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">047c1245875a4110b0c7fcc5dabb35a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-16 06:59:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-16 06:07:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87bd5685875a4110b0c7fcc5dabb35df</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_517375_it_case_it_case" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">28879acd871a4110b0c7fcc5dabb3595</sys_ui_form>
+            <sys_ui_section caption="Checklist" display_value="Checklist" name="x_517375_it_case_it_case" sys_domain="global" view="Default view">0bbd5685875a4110b0c7fcc5dabb3568</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-16 06:59:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_517375_it_case_it_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-16 05:40:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28879acd871a4110b0c7fcc5dabb3595</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_517375_it_case_it_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Case Management" source="x_517375_it_case">fe32d609871a4110b0c7fcc5dabb35ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Case Management">fe32d609871a4110b0c7fcc5dabb35ce</sys_scope>
+            <sys_update_name>sys_ui_form_sections_28879acd871a4110b0c7fcc5dabb3595</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-16 05:40:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
